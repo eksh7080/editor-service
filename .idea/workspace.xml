@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b8293e9a-721f-4d4e-99f2-bd106eb95596" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/preview.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.storybook/vitest.setup.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Button.stories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Button.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Configure.mdx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Header.stories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Header.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Page.stories.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/Page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/accessibility.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/accessibility.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/addon-library.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/assets.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/avif-test-image.avif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/context.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/discord.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/docs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/figma-plugin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/github.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/share.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/styling.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/testing.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/theming.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/tutorials.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/assets/youtube.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/button.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/header.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/stories/page.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vitest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="31mW4kFmuIYdTKWaf10YeE9cX5R" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b8293e9a-721f-4d4e-99f2-bd106eb95596" name="Changes" comment="" />
+      <created>1756129541233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1756129541233</updated>
+      <workItem from="1756129542653" duration="1279000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
