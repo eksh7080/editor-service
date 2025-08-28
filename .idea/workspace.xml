@@ -5,42 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8293e9a-721f-4d4e-99f2-bd106eb95596" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/preview.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.storybook/vitest.setup.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/eslint.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/eslint.config.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Button.stories.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Button.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Configure.mdx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Header.stories.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Header.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Page.stories.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/Page.tsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/accessibility.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/accessibility.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/addon-library.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/assets.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/avif-test-image.avif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/context.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/discord.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/docs.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/figma-plugin.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/github.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/share.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/styling.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/testing.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/theming.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/tutorials.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/assets/youtube.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/button.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/header.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/stories/page.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vitest.config.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +25,25 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="develop" />
+                <branch-info repo="$PROJECT_DIR$" source="feat/lender-page" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -63,12 +58,17 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.standard": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.standard": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "yarn",
+    "settings.editor.selected.configurable": "settings.javascript.linters.eslint",
+    "ts.external.directory.path": "C:\\Users\\asd\\Desktop\\editor-service\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -80,11 +80,38 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1756129541233</updated>
-      <workItem from="1756129542653" duration="1279000" />
+      <workItem from="1756129542653" duration="1374000" />
+      <workItem from="1756389676070" duration="1459000" />
     </task>
+    <task id="LOCAL-00001" summary="[develop] chore: sass로 환경설정 다시 설정">
+      <option name="closed" value="true" />
+      <created>1756131014920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1756131014920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="[develop] chore: sass로 환경설정 다시 설정" />
+    <option name="LAST_COMMIT_MESSAGE" value="[develop] chore: sass로 환경설정 다시 설정" />
   </component>
 </project>
